@@ -14,7 +14,7 @@ VegaAI is an interactive chat-based platform that leverages advanced AI to provi
 
 ## Demo
 
-Check out the [Live Demo](#) (Insert link to live demo if available).
+Check out the [Live Demo](https://vega-ai-iota.vercel.app/)
 
 ## Tech Stack
 
